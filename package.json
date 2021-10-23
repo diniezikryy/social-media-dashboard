@@ -1,0 +1,27 @@
+{
+  "name": "social-media-dashboard",
+  "version": "1.0.0",
+  "description": "![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "autoprefixer": "^10.3.7",
+    "browser-sync": "^2.27.5",
+    "cssnano": "^5.0.8",
+    "dart-sass": "^1.25.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.0.0",
+    "gulp-terser": "^2.1.0",
+    "postcss": "^8.3.9",
+    "sass": "^1.42.1"
+  }
+}
