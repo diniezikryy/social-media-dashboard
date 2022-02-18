@@ -21,6 +21,7 @@
     "gulp-postcss": "^9.0.1",
     "gulp-sass": "^5.0.0",
     "gulp-terser": "^2.1.0",
+    "http-server": "^14.1.0",
     "postcss": "^8.3.9",
     "sass": "^1.42.1"
   }
